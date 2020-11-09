@@ -1,0 +1,10 @@
+D:\Aulas C#\Jogodavelha\JogodaMemoria\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+D:\Aulas C#\Jogodavelha\JogodaMemoria\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+D:\Aulas C#\Jogodavelha\JogodaMemoria\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+D:\Aulas C#\Jogodavelha\JogodaMemoria\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+D:\Aulas C#\Jogodavelha\JogodaMemoria\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Form1.resources
+D:\Aulas C#\Jogodavelha\JogodaMemoria\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+D:\Aulas C#\Jogodavelha\JogodaMemoria\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+D:\Aulas C#\Jogodavelha\JogodaMemoria\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+D:\Aulas C#\Jogodavelha\JogodaMemoria\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+D:\Aulas C#\Jogodavelha\JogodaMemoria\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
